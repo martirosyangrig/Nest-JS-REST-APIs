@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) Rest apis , user registration, tokens, protected routes, working with Sequelize and MySql.
+[Nest](https://github.com/nestjs/nest) Rest apis , user registration, roles, tokens, protected routes, working with Sequelize and MySql.
 
 ## Installation
 

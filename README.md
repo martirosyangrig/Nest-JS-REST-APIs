@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) Rest apis , user registration, tokens, protected routes, working with Sequelize and MySql.
 
 ## Installation
 
